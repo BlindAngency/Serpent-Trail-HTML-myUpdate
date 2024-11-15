@@ -1,0 +1,138 @@
+<!-- Team section -->
+                                <div class="sc_team_wrap scheme_original padding_top_2_5em padding_bottom_7_1429em">
+                                    <div class="content_wrap">
+                                        <div class="sc_team sc_team_style_team-1 sc_slider_nopagination sc_slider_nocontrols aligncenter width_100_per" data-interval="7176" data-slides-per-view="3" data-slides-min-width="250">
+                                            <h6 class="sc_team_subtitle sc_item_subtitle">Church Staff</h6>
+                                            <h2 class="sc_team_title sc_item_title">Our Senior Pastors, Eldership and Board</h2>
+                                            <div class="sc_team_descr sc_item_descr">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa</div>
+                                            <div class="sc_columns columns_wrap">
+                                                <!-- Team item -->
+                                                <div class="column-1_3 column_padding_bottom">
+                                                    <div class="sc_team_item sc_team_item_1 odd first">
+                                                        <div class="sc_team_item_avatar">
+                                                            <a class="sc_team_item_avatar_link" href="#">
+                                                                <img alt="" src="http://placehold.it/370x226">
+                                                            </a>
+                                                        </div>
+                                                        <div class="sc_team_item_info">
+                                                            <h5 class="sc_team_item_title">
+                                                                <a href="team-single.html">Elmer Black</a>
+                                                            </h5>
+                                                            <div class="sc_team_item_position">Lead Teaching Pastor</div>
+                                                            <div class="sc_socials sc_socials_type_icons sc_socials_shape_round sc_socials_size_tiny">
+                                                                <div class="sc_socials_item">
+                                                                    <a href="#" target="_blank" class="social_icons social_twitter">
+                                                                        <span class="icon-twitter"></span>
+                                                                    </a>
+                                                                </div>
+                                                                <div class="sc_socials_item">
+                                                                    <a href="#" target="_blank" class="social_icons social_facebook">
+                                                                        <span class="icon-facebook"></span>
+                                                                    </a>
+                                                                </div>
+                                                                <div class="sc_socials_item">
+                                                                    <a href="#" target="_blank" class="social_icons social_gplus">
+                                                                        <span class="icon-gplus"></span>
+                                                                    </a>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div><!-- /Team item --><!-- Team item --><div class="column-1_3 column_padding_bottom">
+                                                    <div class="sc_team_item sc_team_item_2 even">
+                                                        <div class="sc_team_item_avatar">
+                                                            <a class="sc_team_item_avatar_link" href="#">
+                                                                <img alt="" src="http://placehold.it/370x226">
+                                                            </a>
+                                                        </div>
+                                                        <div class="sc_team_item_info">
+                                                            <h5 class="sc_team_item_title">
+                                                                <a href="team-single.html">Herbert Wright</a>
+                                                            </h5>
+                                                            <div class="sc_team_item_position">Executive Pastor</div>
+
+                                                            <div class="sc_socials sc_socials_type_icons sc_socials_shape_round sc_socials_size_tiny">
+                                                                <div class="sc_socials_item">
+                                                                    <a href="#" target="_blank" class="social_icons social_twitter">
+                                                                        <span class="icon-twitter"></span>
+                                                                    </a>
+                                                                </div>
+                                                                <div class="sc_socials_item">
+                                                                    <a href="#" target="_blank" class="social_icons social_facebook">
+                                                                        <span class="icon-facebook"></span>
+                                                                    </a>
+                                                                </div>
+                                                                <div class="sc_socials_item">
+                                                                    <a href="#" target="_blank" class="social_icons social_instagramm">
+                                                                        <span class="icon-instagramm"></span>
+                                                                    </a>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div><!-- /Team item --><!-- Team item --><div class="column-1_3 column_padding_bottom">
+                                                    <div class="sc_team_item sc_team_item_3 odd">
+                                                        <div class="sc_team_item_avatar">
+                                                            <a class="sc_team_item_avatar_link" href="#">
+                                                                <img alt="" src="http://placehold.it/370x226">
+                                                            </a>
+                                                        </div>
+                                                        <div class="sc_team_item_info">
+                                                            <h5 class="sc_team_item_title">
+                                                                <a href="team-single.html">Elijah Douglas</a>
+                                                            </h5>
+                                                            <div class="sc_team_item_position">Youth Leader</div>
+                                                            <div class="sc_socials sc_socials_type_icons sc_socials_shape_round sc_socials_size_tiny">
+                                                                <div class="sc_socials_item">
+                                                                    <a href="#" target="_blank" class="social_icons social_twitter">
+                                                                        <span class="icon-twitter"></span>
+                                                                    </a>
+                                                                </div>
+                                                                <div class="sc_socials_item">
+                                                                    <a href="#" target="_blank" class="social_icons social_facebook">
+                                                                        <span class="icon-facebook"></span>
+                                                                    </a>
+                                                                </div>
+                                                                <div class="sc_socials_item">
+                                                                    <a href="#" target="_blank" class="social_icons social_instagramm">
+                                                                        <span class="icon-instagramm"></span>
+                                                                    </a>
+                                                                </div>
+                                                                <div class="sc_socials_item">
+                                                                    <a href="#" target="_blank" class="social_icons social_gplus">
+                                                                        <span class="icon-gplus"></span>
+                                                                    </a>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <!-- /Team section -->
+
+
+
+
+<!-- Mission section -->
+                                <div class="hp1_mission_section">
+                                    <div class="content_wrap">
+                                        <div class="columns_wrap sc_columns columns_fluid no_margins sc_columns_count_2">
+                                            <div class="column-1_2 sc_column_item sc_column_item_1 odd first">
+                                                <h2 class="sc_title sc_title_regular sc_align_right">Our church mission is to ignite a passion to follow Jesus.</h2>
+                                            </div><div class="column-1_2 sc_column_item sc_column_item_2 even">
+                                                <div class="sc_section">
+                                                    <div class="sc_section_inner">
+                                                        <p class="tpl_light">
+                                                          “The church is the body of Christ on earth, empowered by the Holy Spirit to continue the task of reaching the lost and discipling the saved, helping them become fully devoted followers of Christ.”
+                                                        </p>
+                                                        <p class="tpl_light">Ephesians 4:1-16</p>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <!-- /Mission section -->
